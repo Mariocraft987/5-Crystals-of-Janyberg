@@ -1,9 +1,5 @@
-# 5-Crystals-of-Janyberg
+# 5 Crystals of Janyberg
 A text game made using python
 To play this game, please install the latest version of <a href="https://www.python.org/downloads/">python</a>
 
-```
-welcome, fellow adventurer
-welcome to Janyberg
-find the 5 crystals
-```
+When done please start up <code><a href="https://github.com/Mariocraft987/5-Crystals-of-Janyberg/blob/main/intro.py">intro.py</a></code>
